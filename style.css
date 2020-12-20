@@ -1,0 +1,19 @@
+#background{
+    background-image: url("https://i.pinimg.com/originals/4e/c5/16/4ec516747ef545d626724a6241c65644.png");
+    background-size: cover;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-color: hotpink;
+    
+}
+h1{
+    color: rgb(0, 255, 242);
+    margin-top: 70px;
+}
+#myCanvas{
+    border-width:10px;
+    background-color: lightpink; 
+    border-style:groove;
+    float: left;
+    
+}
